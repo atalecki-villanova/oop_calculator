@@ -1,0 +1,6 @@
+C:\Users\Dell-WIN10-AT\Downloads\Calculator_Better_Design\Calculator_Better_Design\Logic_Interfaces\bin\Debug\Logic_Interfaces.dll
+C:\Users\Dell-WIN10-AT\Downloads\Calculator_Better_Design\Calculator_Better_Design\Logic_Interfaces\bin\Debug\Logic_Interfaces.pdb
+C:\Users\Dell-WIN10-AT\Downloads\Calculator_Better_Design\Calculator_Better_Design\Logic_Interfaces\obj\Debug\Logic_Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Dell-WIN10-AT\Downloads\Calculator_Better_Design\Calculator_Better_Design\Logic_Interfaces\obj\Debug\Logic_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Dell-WIN10-AT\Downloads\Calculator_Better_Design\Calculator_Better_Design\Logic_Interfaces\obj\Debug\Logic_Interfaces.dll
+C:\Users\Dell-WIN10-AT\Downloads\Calculator_Better_Design\Calculator_Better_Design\Logic_Interfaces\obj\Debug\Logic_Interfaces.pdb

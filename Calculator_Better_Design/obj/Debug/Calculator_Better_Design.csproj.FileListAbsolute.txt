@@ -1,0 +1,10 @@
+C:\Users\Dell-WIN10-AT\Downloads\Calculator_Better_Design\Calculator_Better_Design\Calculator_Better_Design\bin\Debug\Calculator_Better_Design.exe.config
+C:\Users\Dell-WIN10-AT\Downloads\Calculator_Better_Design\Calculator_Better_Design\Calculator_Better_Design\bin\Debug\Calculator_Better_Design.exe
+C:\Users\Dell-WIN10-AT\Downloads\Calculator_Better_Design\Calculator_Better_Design\Calculator_Better_Design\bin\Debug\Calculator_Better_Design.pdb
+C:\Users\Dell-WIN10-AT\Downloads\Calculator_Better_Design\Calculator_Better_Design\Calculator_Better_Design\obj\Debug\Calculator_Better_Design.csprojResolveAssemblyReference.cache
+C:\Users\Dell-WIN10-AT\Downloads\Calculator_Better_Design\Calculator_Better_Design\Calculator_Better_Design\obj\Debug\Calculator_Better_Design.Calculator.resources
+C:\Users\Dell-WIN10-AT\Downloads\Calculator_Better_Design\Calculator_Better_Design\Calculator_Better_Design\obj\Debug\Calculator_Better_Design.Properties.Resources.resources
+C:\Users\Dell-WIN10-AT\Downloads\Calculator_Better_Design\Calculator_Better_Design\Calculator_Better_Design\obj\Debug\Calculator_Better_Design.csproj.GenerateResource.cache
+C:\Users\Dell-WIN10-AT\Downloads\Calculator_Better_Design\Calculator_Better_Design\Calculator_Better_Design\obj\Debug\Calculator_Better_Design.csproj.CoreCompileInputs.cache
+C:\Users\Dell-WIN10-AT\Downloads\Calculator_Better_Design\Calculator_Better_Design\Calculator_Better_Design\obj\Debug\Calculator_Better_Design.exe
+C:\Users\Dell-WIN10-AT\Downloads\Calculator_Better_Design\Calculator_Better_Design\Calculator_Better_Design\obj\Debug\Calculator_Better_Design.pdb

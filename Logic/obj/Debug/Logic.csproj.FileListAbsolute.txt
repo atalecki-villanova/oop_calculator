@@ -1,0 +1,9 @@
+C:\Users\Dell-WIN10-AT\Downloads\Calculator_Better_Design\Calculator_Better_Design\Logic\bin\Debug\Logic.dll
+C:\Users\Dell-WIN10-AT\Downloads\Calculator_Better_Design\Calculator_Better_Design\Logic\bin\Debug\Logic.pdb
+C:\Users\Dell-WIN10-AT\Downloads\Calculator_Better_Design\Calculator_Better_Design\Logic\bin\Debug\Logic_Interfaces.dll
+C:\Users\Dell-WIN10-AT\Downloads\Calculator_Better_Design\Calculator_Better_Design\Logic\bin\Debug\Logic_Interfaces.pdb
+C:\Users\Dell-WIN10-AT\Downloads\Calculator_Better_Design\Calculator_Better_Design\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+C:\Users\Dell-WIN10-AT\Downloads\Calculator_Better_Design\Calculator_Better_Design\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Dell-WIN10-AT\Downloads\Calculator_Better_Design\Calculator_Better_Design\Logic\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\Dell-WIN10-AT\Downloads\Calculator_Better_Design\Calculator_Better_Design\Logic\obj\Debug\Logic.dll
+C:\Users\Dell-WIN10-AT\Downloads\Calculator_Better_Design\Calculator_Better_Design\Logic\obj\Debug\Logic.pdb
