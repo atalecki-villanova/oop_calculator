@@ -12,20 +12,22 @@ namespace Logic
         private IBinaryOperation pending_operation = null;
         private double input, lhs, rhs;
 
-        public void Equals()
+        public double Equals()
         {
             rhs = input;
             if (pending_operation != null)
             {
-                Console.WriteLine("Equals: " + pending_operation.Perform_binary_calculation(lhs, rhs));
-                pending_operation = null;
-                lhs = 0.0;
-                rhs = 0.0;
-                input = 0.0;
+                //Console.WriteLine("Equals: " + pending_operation.Perform_binary_calculation(lhs, rhs));
+                //pending_operation = null;
+                //lhs = 0.0;
+                //rhs = 0.0;
+                //input = 0.0;
+                return pending_operation.Perform_binary_calculation(lhs, rhs);
             }
             else
             {
                 Console.WriteLine("You select an operation to perform. [+|-|*|/|reciprocal|square_root]");
+                return double.NaN;
             }
         }
 
