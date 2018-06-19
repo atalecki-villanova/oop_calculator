@@ -130,6 +130,7 @@ namespace Calculator_Better_Design
             Tape_txtBox.AppendText(Lhs_lbl.Text + "\n");
             textBox1.Clear();
             calc.Reciprocal_entered();
+            Ans_lbl.Text = calc.Equals().ToString();
         }
 
         private void Sqroot_btn_Click(object sender, EventArgs e)
@@ -139,6 +140,7 @@ namespace Calculator_Better_Design
             Tape_txtBox.AppendText(Lhs_lbl.Text + "\n");
             textBox1.Clear();
             calc.Square_root_entered();
+            Ans_lbl.Text = calc.Equals().ToString();
         }
 
         private void Clear_btn_Click(object sender, EventArgs e)
